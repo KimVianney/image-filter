@@ -30,9 +30,6 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
   /**************************************************************************** */
 
   //! END @TODO1
-  app.get( "/filteredimage?image_url={{URL}}", async ( req, res ) => {
-    
-  } );
 
   // Root Endpoint
   // Displays a simple message to the user
